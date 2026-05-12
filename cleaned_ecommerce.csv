@@ -1,0 +1,11 @@
+user_id,event,timestamp,product,price
+1,visit,2024-01-01 10:00:00,,
+1,add_to_cart,2024-01-01 10:05:00,Shoes,2000.0
+1,checkout,2024-01-01 10:10:00,Shoes,2000.0
+1,purchase,2024-01-01 10:15:00,Shoes,2000.0
+2,visit,2024-01-01 11:00:00,,
+2,add_to_cart,2024-01-01 11:05:00,Shirt,1000.0
+3,visit,2024-01-01 12:00:00,,
+3,add_to_cart,2024-01-01 12:10:00,Watch,3000.0
+3,checkout,2024-01-01 12:15:00,Watch,3000.0
+4,visit,2024-01-01 13:00:00,,
